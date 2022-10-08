@@ -1,4 +1,27 @@
 body{
-	background-color: black;
-	background-image: url("images/background.jpg");
+	background-color: pink;
+	background-image: url("../images/background.jpg");
+}
+h1{
+  font-family: Jost, sans-serif;
+  font-size: 60px;
+  color: black;
+  text-align: center;
+  margin: 50px;
+  padding: 0px;
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+td{
+  text-align: center;
+  table-layout: fixed;
+  height: 80px;
+  border-radius: 5px;
+}
+img{
+    height: 200px;
+    width: 300px;
+}
+table{
+    width: 500px;
 }
